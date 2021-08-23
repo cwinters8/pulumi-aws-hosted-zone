@@ -1,0 +1,3 @@
+name: pulumi-aws-hosted-zone
+runtime: go
+description: A minimal AWS Go Pulumi program to create a Hosted Zone in AWS
